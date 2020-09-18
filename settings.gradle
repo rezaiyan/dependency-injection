@@ -1,2 +1,4 @@
+include ':hilt'
+include ':dagger'
 include ':presentation'
 rootProject.name = "Dependency Injection"
